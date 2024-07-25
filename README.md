@@ -10,11 +10,11 @@ Eu sou Matheus Coelho, sou um desenvolvedor front-end, e tenho me dedicado inten
 <h3>Connect with me</h3> 
 
 <a href="https://www.instagram.com/dev_mattheus_/ "> 
-<img width="24" height="24" src="https://img.icons8.com/material-outlined/24/ffffff/instagram-new--v1.png" alt="instagram-new--v1" />
+<img width="24" height="24" src="https://img.icons8.com/material-outlined/24/ffffff/instagram-new--v1.png" alt="instagram-new--v1" >
 <a/> 
-
+<br>
 <a href="https://www.linkedin.com/in/matheus-coelho-developer/ ">
-<img width="24" height="24" src="https://img.icons8.com/ios/24/ffffff/linkedin.png" alt="linkedin" />
+<img width="24" height="24" src="https://img.icons8.com/ios/24/ffffff/linkedin.png" alt="linkedin" >
 <a/>
 <br>
 <br>
